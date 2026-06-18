@@ -1,15 +1,23 @@
-# 👋 Hi, I’m Kiran
+# 👋 Hi, I'm Kiran
 
 > Pronouns: he/him/his
 
+I'm a software engineer who works on developer tools. These days I build [**marimo**](https://github.com/marimo-team/marimo), an open-source reactive notebook for Python with over 21k stars and more than 2 million downloads a month.
 
-My research focuses on using interaction provenance to enhance the reproducibility and reusability of interactive visual analysis.
-I have a **strong software engineering** background, with experience developing and maintaining [**open-source** systems](https://github.com/trrack/trrackjs) [and libraries](https://github.com/Trrack/trrackvis).
-I have experience building interactive visualization and analysis tools, and I like to think about how to improve the analyst's experience using these tools. You can view some videos showcasing my work [here](https://youtu.be/DXHXPvRHN9I?si=QIGTR-8rF0gvbGuC), [here](https://www.youtube.com/watch?v=6zUdTOarBIo), and [here](https://youtu.be/jDf4ndtekpk?si=-6OUgt2au_HNeZHT).
+I have a **strong software engineering** background, and I focus on the things that make a tool dependable: thoughtful API design, performance, and the testing and tooling that keep a large open-source codebase healthy. I've developed and maintained open-source systems and libraries for years, including [trrackjs](https://github.com/Trrack/trrackjs) and [trrackvis](https://github.com/Trrack/trrackvis), and I care a lot about the developer and analyst experience of the tools I work on.
 
-I completed my PhD from [Kahlert School of Computing](https://www.cs.utah.edu/) and the [Scientific Computing and Imaging Institue](https://sci.utah.edu/) at the [University of Utah](https://www.utah.edu/). I was supervised by [Dr. Alexander Lex](https://vdl.sci.utah.edu/team/lex/) at [Visualization Design Lab](https://vdl.sci.utah.edu/).
+The thread across my work is making interactive and computational work reproducible and reusable. I came at it first through research, using interaction provenance so analyses could be replayed, shared, and trusted, and now I build the tools that bake that in from the start.
+
+### Research roots
+
+I completed my PhD at the [Kahlert School of Computing](https://www.cs.utah.edu/) and the [Scientific Computing and Imaging Institute](https://sci.utah.edu/) at the [University of Utah](https://www.utah.edu/), supervised by [Dr. Alexander Lex](https://vdl.sci.utah.edu/team/lex/) at the [Visualization Design Lab](https://vdl.sci.utah.edu/). My research used interaction provenance to improve the reproducibility and reusability of interactive visual analysis.
+
+### Tooling I reach for
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 <!---
 kirangadhave/kirangadhave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
